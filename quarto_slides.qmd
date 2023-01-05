@@ -1,0 +1,45 @@
+---
+title: Some Cool Sounding Buzzwords
+subtitle: Less Buzzy and Somewhat More Explanaotry Subtitle
+author:
+  - name: Sanha Cheong
+    orcid: 0000-0003-1689-0557
+    email: sanha@stanford.edu
+date: today
+date-format: long
+bibliography: bibliography.bib
+format:
+  beamer:
+    pdf-engine: xelatex
+    template: style/beamer.template
+    include-in-header: style/beamerheader.tex
+    include-before-body: style/beamerprefix.tex
+    include-after-body: style/beamersuffix.tex
+---
+
+# In the morning
+
+## Getting up
+
+- Turn off alarm
+- Get out of bed
+
+## Breakfast
+
+- Eat eggs
+- Drink coffee
+
+# In the evening
+
+## Dinner
+
+- Eat spaghetti
+- Drink wine
+
+## Going to sleep
+
+- Get in bed
+- Count sheep
+- Add a reference to your \LaTeX-template (@stanford_beamer_template) is:
+
+## References
