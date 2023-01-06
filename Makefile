@@ -1,5 +1,5 @@
 render:
-	quarto render quarto_slides.qmd
+	quarto render
 
 pdf:
 	xelatex beamer_slides.tex
