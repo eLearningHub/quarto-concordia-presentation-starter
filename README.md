@@ -11,6 +11,6 @@
 
 ## Run locally on your computer
 
-- Install [quatro](https://quarto.org/docs/get-started/)
+- Install [quarto](https://quarto.org/docs/get-started/)
 - Run `quarto render`
 - You can find a PDF version of the slides in the `_output` folder.
