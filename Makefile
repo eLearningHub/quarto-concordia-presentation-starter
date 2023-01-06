@@ -6,3 +6,6 @@ pdf:
 
 clean:
 	rm -f *.aux *.log *.nav *.out *. pdf *.snm *.toc *.gz *.fls *.fdb_latexmk
+
+requirements:
+	quarto install tinytex
